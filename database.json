@@ -3,66 +3,77 @@
     "id": 1,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_01.webp",
-    "isPremium": false
+    "isPremium": false,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_01.webp"
   },
   {
     "id": 2,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_02.webp",
-    "isPremium": false
+    "isPremium": false,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_02.webp"
   },
   {
     "id": 3,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_03.webp",
-    "isPremium": false
+    "isPremium": false,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_03.webp"
   },
   {
     "id": 4,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_04.webp",
-    "isPremium": false
+    "isPremium": false,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_04.webp"
   },
   {
     "id": 5,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_05.webp",
-    "isPremium": true
+    "isPremium": true,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_05.webp"
   },
   {
     "id": 6,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_06.webp",
-    "isPremium": false
+    "isPremium": false,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_06.webp"
   },
   {
     "id": 7,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_07.webp",
-    "isPremium": false
+    "isPremium": false,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_07.webp"
   },
   {
     "id": 8,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_08.webp",
-    "isPremium": false
+    "isPremium": false,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_08.webp"
   },
   {
     "id": 9,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_09.webp",
-    "isPremium": false
+    "isPremium": false,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_09.webp"
   },
   {
     "id": 10,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_10.webp",
-    "isPremium": false
+    "isPremium": false,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_10.webp"
   },
   {
     "id": 11,
     "category": "Diwali",
     "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_11.webp",
-    "isPremium": true
+    "isPremium": true,
+    "thumbUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_thumbs/diwali_11.webp"
   }
 ]
