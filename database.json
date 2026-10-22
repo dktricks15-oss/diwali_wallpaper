@@ -74,7 +74,13 @@
   {
     "id": 13,
     "category": "Diwali",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_13.webp"
+    "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_13.webp",
+    "isPremium": false
+  },
+  {
+    "id": 14,
+    "category": "Diwali",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/dktricks15-oss/diwali_wishes@main/diwali_photos/diwali_13.webp",
     "isPremium": false
   }
 ]
